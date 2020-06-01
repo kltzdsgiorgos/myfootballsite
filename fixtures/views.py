@@ -91,7 +91,8 @@ def calculate(request):
             print("Hello")
             poisson_model = sm.load('goal.pickle')
             match = simulate_match(poisson_model, hometeam, awayteam, max_goals=10)
-            goalgoal = round((np.sum(match[1:, 1:])), 3),"%"
+            goalgoal = round((np.sum(match[1:, 1:])), 3), "%"
+            over = round((np.sum(match[2:])+np.sum(match[:2, 2:])-np.sum(match[2:3, 0])-np.sum(match[0:1, 2])), 3), "%"
             messages.success(request, 'Goal/Goal: {}'.format(goalgoal))
     form = FixtureForms()
     return render(request, 'fixtures/calculate.html', {'form': form})
