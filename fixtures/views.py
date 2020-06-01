@@ -13,20 +13,10 @@ from fixtures.teams import TEAM_CHOICES
 from django.shortcuts import render
 
 import pandas as pd
-import matplotlib.pyplot as plt
 import numpy as np
-import seaborn
 from scipy.stats import poisson, skellam
-import os
 import statsmodels.api as sm
-import statsmodels.formula.api as smf
-import pickle
 
-
-print(os.getcwd())
-# poisson_model = sm.load('goal.pickle')
-# prints a summary of the data
-# print(poisson_model.summary())
 
 
 class FixtureList(APIView):

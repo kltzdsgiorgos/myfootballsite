@@ -10,6 +10,8 @@ django = "*"
 djangorestframework = "*"
 pandas = "*"
 gunicorn = "*"
+scipy = "*"
+statsmodels = "*"
 
 [requires]
 python_version = "3.7"
