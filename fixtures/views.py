@@ -94,6 +94,7 @@ def calculate(request):
             goalgoal = round((np.sum(match[1:, 1:])), 3), "%"
             over = round((np.sum(match[2:])+np.sum(match[:2, 2:])-np.sum(match[2:3, 0])-np.sum(match[0:1, 2])), 3), "%"
             messages.success(request, 'Goal/Goal: {}'.format(goalgoal))
+            messages.success(request, 'Goal/Goal: {}'.format(over))
     form = FixtureForms()
     return render(request, 'fixtures/calculate.html', {'form': form})
 
