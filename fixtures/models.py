@@ -26,8 +26,8 @@ class Fixtures(models.Model):
         ('West Ham', 'West Ham'),
     )
 
-    hometeam = models.CharField(max_length=15, choices=TEAM_CHOICES, blank=False)
-    awayteam = models.CharField(max_length=15, choices=TEAM_CHOICES, blank=False)
+    hometeam = models.CharField(max_length=25, choices=TEAM_CHOICES, blank=False)
+    awayteam = models.CharField(max_length=25, choices=TEAM_CHOICES, blank=False)
     homegoals = models.IntegerField()
     awaygoals = models.IntegerField()
 
