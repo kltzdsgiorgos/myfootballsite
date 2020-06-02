@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fixtures</title>
+    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700" rel="stylesheet" />
+    <link href="{% static "/static/style.css" %}" rel="stylesheet" />
+</head>
+<body>
+<div id="root"></div>
+<div>
+    <form action="/your-name/" method="post">
+        <label for="your_name">Your name: </label>
+        <input id="your_name" type="text" name="your_name" value="{{ current_name }}">
+        <input type="submit" value="OK">
+    </form>
+</div>
+<div>
+    <form method="post">
+    <label>HomeTeam</label>
+    <select name="Home Team">
+        <option selected="true" disabled="disabled">Home Teams</option>
+        {% for k,v in Teams.items %}
+            <option value="{{ k }}">{{ v }}</option>
+        {% endfor %}
+    </select>
+
+    <label>AwayTeam</label>
+    <select name="Away Team">
+        <option selected="true" disabled="disabled">Away Teams</option>
+        {% for k,v in Teams.items %}
+            <option value="{{ k }}">{{ v }}</option>
+        {% endfor %}
+    </select>
+    <button type="submit">Submit</button>
+    </form>
+</div>
+<script src="/static/script.js"></script>
+</body>
+</html>
