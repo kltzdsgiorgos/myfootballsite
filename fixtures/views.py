@@ -70,7 +70,7 @@ def index(request):
     context = {'fixture_list': fixture_list,
                'Teams': TEAM_CHOICES,
                }
-    return render(request, 'fixtures/index.html', context)
+    return render(request, 'index.html', context)
 
 
 def simulate_match(foot_model, homeTeam, awayTeam, max_goals=10):
@@ -96,6 +96,6 @@ def calculate(request):
             messages.success(request, 'Goal/Goal: {}'.format(goalgoal))
             messages.success(request, 'Over 2.5: {}'.format(over))
     form = FixtureForms()
-    return render(request, 'fixtures/calculate.html', {'form': form})
+    return render(request, 'calculate.html', {'form': form})
 
 
