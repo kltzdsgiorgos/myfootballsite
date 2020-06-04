@@ -11,6 +11,7 @@ app.appendChild(container)
 
 var request = new XMLHttpRequest()
 request.open('GET', 'https://a-recoba.herokuapp.com/fixtures', true)
+// request.open('GET', 'http://127.0.0.1:8000/fixtures', true)
 request.onload = function() {
     // Begin accessing JSON data here
     var data = JSON.parse(this.response)
