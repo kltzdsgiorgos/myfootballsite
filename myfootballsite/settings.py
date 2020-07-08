@@ -24,9 +24,9 @@ print(BASE_DIR)
 SECRET_KEY = 'xd9rqe9=3f5&og@_q9dwv&a+((y-v7245f!eb*=(bo9lze7$fi'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = ['a-recoba.herokuapp.com']
+ALLOWED_HOSTS = ['mai-uom-19020.herokuapp.com']
 
 
 # Application definition
