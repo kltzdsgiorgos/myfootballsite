@@ -1,7 +1,7 @@
 from django.db import models
 
 
-class Fixtures(models.Model):
+class EnglandFixtures(models.Model):
 
     TEAM_CHOICES = (
         ('Arsenal', 'Arsenal'),
@@ -26,8 +26,35 @@ class Fixtures(models.Model):
         ('West Ham', 'West Ham'),
     )
 
+    season = models.CharField(max_length=20)
     hometeam = models.CharField(max_length=25, choices=TEAM_CHOICES, blank=False)
     awayteam = models.CharField(max_length=25, choices=TEAM_CHOICES, blank=False)
+    # hometeam = models.CharField(max_length=25, blank=False)
+    # awayteam = models.CharField(max_length=25, blank=False)
+    homegoals = models.IntegerField()
+    awaygoals = models.IntegerField()
+
+    def __str__(self):
+        return '{} vs {}'.format(self.hometeam, self.awayteam)
+
+
+class JapanFixtures(models.Model):
+
+    season = models.CharField(max_length=20)
+    hometeam = models.CharField(max_length=25, blank=False)
+    awayteam = models.CharField(max_length=25, blank=False)
+    homegoals = models.IntegerField()
+    awaygoals = models.IntegerField()
+
+    def __str__(self):
+        return '{} vs {}'.format(self.hometeam, self.awayteam)
+
+
+class GermanFixtures(models.Model):
+
+    season = models.CharField(max_length=20)
+    hometeam = models.CharField(max_length=25, blank=False)
+    awayteam = models.CharField(max_length=25, blank=False)
     homegoals = models.IntegerField()
     awaygoals = models.IntegerField()
 

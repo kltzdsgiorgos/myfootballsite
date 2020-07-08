@@ -82,7 +82,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'fixtures',
         'USER': 'postgres',
-        'PASSWORD': 'Panathinaikos1991',
+        'PASSWORD': 'giorgos1991',
         'HOST': 'localhost',
     }
 }

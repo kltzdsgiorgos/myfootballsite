@@ -1,251 +1,307 @@
-Bayern Munich,Hertha,2,2
-Dortmund,Augsburg,5,1
-Freiburg,Mainz,3,0
-Leverkusen,Paderborn,3,2
-Werder Bremen,Fortuna Dusseldorf,1,3
-Wolfsburg,FC Koln,2,1
-M'gladbach,Schalke 04,0,0
-Ein Frankfurt,Hoffenheim,1,0
-Union Berlin,RB Leipzig,0,4
-FC Koln,Dortmund,1,3
-Augsburg,Union Berlin,1,1
-Fortuna Dusseldorf,Leverkusen,1,3
-Hoffenheim,Werder Bremen,3,2
-Mainz,M'gladbach,1,3
-Paderborn,Freiburg,1,3
-Schalke 04,Bayern Munich,0,3
-RB Leipzig,Ein Frankfurt,2,1
-Hertha,Wolfsburg,0,3
-M'gladbach,RB Leipzig,1,3
-Bayern Munich,Mainz,6,1
-Freiburg,FC Koln,1,2
-Leverkusen,Hoffenheim,0,0
-Schalke 04,Hertha,3,0
-Wolfsburg,Paderborn,1,1
-Union Berlin,Dortmund,3,1
-Werder Bremen,Augsburg,3,2
-Ein Frankfurt,Fortuna Dusseldorf,2,1
-Fortuna Dusseldorf,Wolfsburg,1,1
-Augsburg,Ein Frankfurt,2,1
-Dortmund,Leverkusen,4,0
-FC Koln,M'gladbach,0,1
-Mainz,Hertha,2,1
-Union Berlin,Werder Bremen,1,2
-RB Leipzig,Bayern Munich,1,1
-Hoffenheim,Freiburg,0,3
-Paderborn,Schalke 04,1,5
-Schalke 04,Mainz,2,1
-Bayern Munich,FC Koln,4,0
-Freiburg,Augsburg,1,1
-Hertha,Paderborn,2,1
-Leverkusen,Union Berlin,2,0
-Werder Bremen,RB Leipzig,0,3
-M'gladbach,Fortuna Dusseldorf,2,1
-Ein Frankfurt,Dortmund,2,2
-Wolfsburg,Hoffenheim,1,1
-Union Berlin,Ein Frankfurt,1,2
-Augsburg,Leverkusen,0,3
-Hoffenheim,M'gladbach,0,3
-Mainz,Wolfsburg,0,1
-Paderborn,Bayern Munich,2,3
-RB Leipzig,Schalke 04,1,3
-Dortmund,Werder Bremen,2,2
-Fortuna Dusseldorf,Freiburg,1,2
-FC Koln,Hertha,0,4
-Hertha,Fortuna Dusseldorf,3,1
-Bayern Munich,Hoffenheim,1,2
-Freiburg,Dortmund,2,2
-Leverkusen,RB Leipzig,1,1
-Paderborn,Mainz,1,2
-Schalke 04,FC Koln,1,1
-M'gladbach,Augsburg,5,1
-Wolfsburg,Union Berlin,1,0
-Ein Frankfurt,Werder Bremen,2,2
-Ein Frankfurt,Leverkusen,3,0
-Augsburg,Bayern Munich,2,2
-Fortuna Dusseldorf,Mainz,1,0
-RB Leipzig,Wolfsburg,1,1
-Union Berlin,Freiburg,2,0
-Werder Bremen,Hertha,1,1
-Dortmund,M'gladbach,1,0
-FC Koln,Paderborn,3,0
-Hoffenheim,Schalke 04,2,0
-Mainz,FC Koln,3,1
-Bayern Munich,Union Berlin,2,1
-Freiburg,RB Leipzig,2,1
-Hertha,Hoffenheim,2,3
-Paderborn,Fortuna Dusseldorf,2,0
-Schalke 04,Dortmund,0,0
-Leverkusen,Werder Bremen,2,2
-Wolfsburg,Augsburg,0,0
-M'gladbach,Ein Frankfurt,4,2
-Hoffenheim,Paderborn,3,0
-Dortmund,Wolfsburg,3,0
-Ein Frankfurt,Bayern Munich,5,1
-Leverkusen,M'gladbach,1,2
-RB Leipzig,Mainz,8,0
-Werder Bremen,Freiburg,2,2
-Union Berlin,Hertha,1,0
-Fortuna Dusseldorf,FC Koln,2,0
-Augsburg,Schalke 04,2,3
-FC Koln,Hoffenheim,1,2
-Hertha,RB Leipzig,2,4
-Mainz,Union Berlin,2,3
-Paderborn,Augsburg,0,1
-Schalke 04,Fortuna Dusseldorf,3,3
-Bayern Munich,Dortmund,4,0
-M'gladbach,Werder Bremen,3,1
-Wolfsburg,Leverkusen,0,2
-Freiburg,Ein Frankfurt,1,0
-Dortmund,Paderborn,3,3
-Ein Frankfurt,Wolfsburg,0,2
-Fortuna Dusseldorf,Bayern Munich,0,4
-Leverkusen,Freiburg,1,1
-Union Berlin,M'gladbach,2,0
-Werder Bremen,Schalke 04,1,2
-RB Leipzig,FC Koln,4,1
-Augsburg,Hertha,4,0
-Hoffenheim,Mainz,1,5
-Schalke 04,Union Berlin,2,1
-FC Koln,Augsburg,1,1
-Hertha,Dortmund,1,2
-Hoffenheim,Fortuna Dusseldorf,1,1
-Paderborn,RB Leipzig,2,3
-Bayern Munich,Leverkusen,1,2
-M'gladbach,Freiburg,4,2
-Wolfsburg,Werder Bremen,2,3
-Mainz,Ein Frankfurt,2,1
-Ein Frankfurt,Hertha,2,2
-Augsburg,Mainz,2,1
-Dortmund,Fortuna Dusseldorf,5,0
-Freiburg,Wolfsburg,1,0
-M'gladbach,Bayern Munich,2,1
-RB Leipzig,Hoffenheim,3,1
-Leverkusen,Schalke 04,2,1
-Union Berlin,FC Koln,2,0
-Werder Bremen,Paderborn,0,1
-Hoffenheim,Augsburg,2,4
-Bayern Munich,Werder Bremen,6,1
-FC Koln,Leverkusen,2,0
-Hertha,Freiburg,1,0
-Mainz,Dortmund,0,4
-Paderborn,Union Berlin,1,1
-Fortuna Dusseldorf,RB Leipzig,0,3
-Wolfsburg,M'gladbach,2,1
-Schalke 04,Ein Frankfurt,1,0
-Werder Bremen,Mainz,0,5
-Augsburg,Fortuna Dusseldorf,3,0
-Dortmund,RB Leipzig,3,3
-Union Berlin,Hoffenheim,0,2
-Leverkusen,Hertha,0,1
-Ein Frankfurt,FC Koln,2,4
-Freiburg,Bayern Munich,1,3
-M'gladbach,Paderborn,2,0
-Wolfsburg,Schalke 04,1,1
-Hoffenheim,Dortmund,2,1
-Bayern Munich,Wolfsburg,2,0
-FC Koln,Werder Bremen,1,0
-Mainz,Leverkusen,0,1
-RB Leipzig,Augsburg,3,1
-Schalke 04,Freiburg,2,2
-Hertha,M'gladbach,0,0
-Fortuna Dusseldorf,Union Berlin,2,1
-Paderborn,Ein Frankfurt,2,1
-Schalke 04,M'gladbach,2,0
-Augsburg,Dortmund,3,5
-FC Koln,Wolfsburg,3,1
-Fortuna Dusseldorf,Werder Bremen,0,1
-Hoffenheim,Ein Frankfurt,1,2
-Mainz,Freiburg,1,2
-RB Leipzig,Union Berlin,3,1
-Hertha,Bayern Munich,0,4
-Paderborn,Leverkusen,1,4
-Dortmund,FC Koln,5,1
-Ein Frankfurt,RB Leipzig,2,0
-Freiburg,Paderborn,0,2
-M'gladbach,Mainz,3,1
-Union Berlin,Augsburg,2,0
-Wolfsburg,Hertha,1,2
-Bayern Munich,Schalke 04,5,0
-Werder Bremen,Hoffenheim,0,3
-Leverkusen,Fortuna Dusseldorf,3,0
-Hertha,Schalke 04,0,0
-Augsburg,Werder Bremen,2,1
-Dortmund,Union Berlin,5,0
-Fortuna Dusseldorf,Ein Frankfurt,1,1
-Hoffenheim,Leverkusen,2,1
-Mainz,Bayern Munich,1,3
-RB Leipzig,M'gladbach,2,2
-FC Koln,Freiburg,4,0
-Paderborn,Wolfsburg,2,4
-Ein Frankfurt,Augsburg,5,0
-Freiburg,Hoffenheim,1,0
-Hertha,Mainz,1,3
-Schalke 04,Paderborn,1,1
-Werder Bremen,Union Berlin,0,2
-Wolfsburg,Fortuna Dusseldorf,1,1
-Leverkusen,Dortmund,4,3
-Bayern Munich,RB Leipzig,0,0
-Dortmund,Ein Frankfurt,4,0
-Augsburg,Freiburg,1,1
-Hoffenheim,Wolfsburg,2,3
-Paderborn,Hertha,1,2
-RB Leipzig,Werder Bremen,3,0
-Union Berlin,Leverkusen,2,3
-Fortuna Dusseldorf,M'gladbach,1,4
-FC Koln,Bayern Munich,1,4
-Mainz,Schalke 04,0,0
-Bayern Munich,Paderborn,3,2
-Freiburg,Fortuna Dusseldorf,0,2
-Hertha,FC Koln,0,5
-M'gladbach,Hoffenheim,1,1
-Werder Bremen,Dortmund,0,2
-Schalke 04,RB Leipzig,0,5
-Leverkusen,Augsburg,2,0
-Wolfsburg,Mainz,4,0
-Ein Frankfurt,Union Berlin,1,2
-Fortuna Dusseldorf,Hertha,3,3
-Augsburg,M'gladbach,2,3
-Dortmund,Freiburg,1,0
-Hoffenheim,Bayern Munich,0,6
-Mainz,Paderborn,2,0
-FC Koln,Schalke 04,3,0
-Union Berlin,Wolfsburg,2,2
-RB Leipzig,Leverkusen,1,1
-Paderborn,FC Koln,1,2
-Freiburg,Union Berlin,3,1
-Hertha,Werder Bremen,2,2
-Leverkusen,Ein Frankfurt,4,0
-Schalke 04,Hoffenheim,1,1
-Wolfsburg,RB Leipzig,0,0
-M'gladbach,Dortmund,1,2
-Bayern Munich,Augsburg,2,0
-Mainz,Fortuna Dusseldorf,1,1
-M'gladbach,FC Koln,2,1
-Augsburg,Wolfsburg,1,2
-Dortmund,Schalke 04,4,0
-Fortuna Dusseldorf,Paderborn,0,0
-Hoffenheim,Hertha,0,3
-RB Leipzig,Freiburg,1,1
-Ein Frankfurt,M'gladbach,1,3
-FC Koln,Mainz,2,2
-Union Berlin,Bayern Munich,0,2
-Werder Bremen,Leverkusen,1,4
-Hertha,Union Berlin,4,0
-Freiburg,Werder Bremen,0,1
-M'gladbach,Leverkusen,1,3
-Paderborn,Hoffenheim,1,1
-Wolfsburg,Dortmund,0,2
-Bayern Munich,Ein Frankfurt,5,2
-Schalke 04,Augsburg,0,3
-Mainz,RB Leipzig,0,5
-FC Koln,Fortuna Dusseldorf,2,2
-Dortmund,Bayern Munich,0,1
-Ein Frankfurt,Freiburg,3,3
-Leverkusen,Wolfsburg,1,4
-Werder Bremen,M'gladbach,0,0
-RB Leipzig,Hertha,2,2
-Augsburg,Paderborn,0,0
-Fortuna Dusseldorf,Schalke 04,2,1
-Hoffenheim,FC Koln,3,1
-Union Berlin,Mainz,1,1
+season,hometeam,awayteam,homegoals,awaygoals
+2019/2020,Bayern Munich,Hertha,2,2
+2019/2020,Dortmund,Augsburg,5,1
+2019/2020,Freiburg,Mainz,3,0
+2019/2020,Leverkusen,Paderborn,3,2
+2019/2020,Werder Bremen,Fortuna Dusseldorf,1,3
+2019/2020,Wolfsburg,FC Koln,2,1
+2019/2020,M'gladbach,Schalke 04,0,0
+2019/2020,Ein Frankfurt,Hoffenheim,1,0
+2019/2020,Union Berlin,RB Leipzig,0,4
+2019/2020,FC Koln,Dortmund,1,3
+2019/2020,Augsburg,Union Berlin,1,1
+2019/2020,Fortuna Dusseldorf,Leverkusen,1,3
+2019/2020,Hoffenheim,Werder Bremen,3,2
+2019/2020,Mainz,M'gladbach,1,3
+2019/2020,Paderborn,Freiburg,1,3
+2019/2020,Schalke 04,Bayern Munich,0,3
+2019/2020,RB Leipzig,Ein Frankfurt,2,1
+2019/2020,Hertha,Wolfsburg,0,3
+2019/2020,M'gladbach,RB Leipzig,1,3
+2019/2020,Bayern Munich,Mainz,6,1
+2019/2020,Freiburg,FC Koln,1,2
+2019/2020,Leverkusen,Hoffenheim,0,0
+2019/2020,Schalke 04,Hertha,3,0
+2019/2020,Wolfsburg,Paderborn,1,1
+2019/2020,Union Berlin,Dortmund,3,1
+2019/2020,Werder Bremen,Augsburg,3,2
+2019/2020,Ein Frankfurt,Fortuna Dusseldorf,2,1
+2019/2020,Fortuna Dusseldorf,Wolfsburg,1,1
+2019/2020,Augsburg,Ein Frankfurt,2,1
+2019/2020,Dortmund,Leverkusen,4,0
+2019/2020,FC Koln,M'gladbach,0,1
+2019/2020,Mainz,Hertha,2,1
+2019/2020,Union Berlin,Werder Bremen,1,2
+2019/2020,RB Leipzig,Bayern Munich,1,1
+2019/2020,Hoffenheim,Freiburg,0,3
+2019/2020,Paderborn,Schalke 04,1,5
+2019/2020,Schalke 04,Mainz,2,1
+2019/2020,Bayern Munich,FC Koln,4,0
+2019/2020,Freiburg,Augsburg,1,1
+2019/2020,Hertha,Paderborn,2,1
+2019/2020,Leverkusen,Union Berlin,2,0
+2019/2020,Werder Bremen,RB Leipzig,0,3
+2019/2020,M'gladbach,Fortuna Dusseldorf,2,1
+2019/2020,Ein Frankfurt,Dortmund,2,2
+2019/2020,Wolfsburg,Hoffenheim,1,1
+2019/2020,Union Berlin,Ein Frankfurt,1,2
+2019/2020,Augsburg,Leverkusen,0,3
+2019/2020,Hoffenheim,M'gladbach,0,3
+2019/2020,Mainz,Wolfsburg,0,1
+2019/2020,Paderborn,Bayern Munich,2,3
+2019/2020,RB Leipzig,Schalke 04,1,3
+2019/2020,Dortmund,Werder Bremen,2,2
+2019/2020,Fortuna Dusseldorf,Freiburg,1,2
+2019/2020,FC Koln,Hertha,0,4
+2019/2020,Hertha,Fortuna Dusseldorf,3,1
+2019/2020,Bayern Munich,Hoffenheim,1,2
+2019/2020,Freiburg,Dortmund,2,2
+2019/2020,Leverkusen,RB Leipzig,1,1
+2019/2020,Paderborn,Mainz,1,2
+2019/2020,Schalke 04,FC Koln,1,1
+2019/2020,M'gladbach,Augsburg,5,1
+2019/2020,Wolfsburg,Union Berlin,1,0
+2019/2020,Ein Frankfurt,Werder Bremen,2,2
+2019/2020,Ein Frankfurt,Leverkusen,3,0
+2019/2020,Augsburg,Bayern Munich,2,2
+2019/2020,Fortuna Dusseldorf,Mainz,1,0
+2019/2020,RB Leipzig,Wolfsburg,1,1
+2019/2020,Union Berlin,Freiburg,2,0
+2019/2020,Werder Bremen,Hertha,1,1
+2019/2020,Dortmund,M'gladbach,1,0
+2019/2020,FC Koln,Paderborn,3,0
+2019/2020,Hoffenheim,Schalke 04,2,0
+2019/2020,Mainz,FC Koln,3,1
+2019/2020,Bayern Munich,Union Berlin,2,1
+2019/2020,Freiburg,RB Leipzig,2,1
+2019/2020,Hertha,Hoffenheim,2,3
+2019/2020,Paderborn,Fortuna Dusseldorf,2,0
+2019/2020,Schalke 04,Dortmund,0,0
+2019/2020,Leverkusen,Werder Bremen,2,2
+2019/2020,Wolfsburg,Augsburg,0,0
+2019/2020,M'gladbach,Ein Frankfurt,4,2
+2019/2020,Hoffenheim,Paderborn,3,0
+2019/2020,Dortmund,Wolfsburg,3,0
+2019/2020,Ein Frankfurt,Bayern Munich,5,1
+2019/2020,Leverkusen,M'gladbach,1,2
+2019/2020,RB Leipzig,Mainz,8,0
+2019/2020,Werder Bremen,Freiburg,2,2
+2019/2020,Union Berlin,Hertha,1,0
+2019/2020,Fortuna Dusseldorf,FC Koln,2,0
+2019/2020,Augsburg,Schalke 04,2,3
+2019/2020,FC Koln,Hoffenheim,1,2
+2019/2020,Hertha,RB Leipzig,2,4
+2019/2020,Mainz,Union Berlin,2,3
+2019/2020,Paderborn,Augsburg,0,1
+2019/2020,Schalke 04,Fortuna Dusseldorf,3,3
+2019/2020,Bayern Munich,Dortmund,4,0
+2019/2020,M'gladbach,Werder Bremen,3,1
+2019/2020,Wolfsburg,Leverkusen,0,2
+2019/2020,Freiburg,Ein Frankfurt,1,0
+2019/2020,Dortmund,Paderborn,3,3
+2019/2020,Ein Frankfurt,Wolfsburg,0,2
+2019/2020,Fortuna Dusseldorf,Bayern Munich,0,4
+2019/2020,Leverkusen,Freiburg,1,1
+2019/2020,Union Berlin,M'gladbach,2,0
+2019/2020,Werder Bremen,Schalke 04,1,2
+2019/2020,RB Leipzig,FC Koln,4,1
+2019/2020,Augsburg,Hertha,4,0
+2019/2020,Hoffenheim,Mainz,1,5
+2019/2020,Schalke 04,Union Berlin,2,1
+2019/2020,FC Koln,Augsburg,1,1
+2019/2020,Hertha,Dortmund,1,2
+2019/2020,Hoffenheim,Fortuna Dusseldorf,1,1
+2019/2020,Paderborn,RB Leipzig,2,3
+2019/2020,Bayern Munich,Leverkusen,1,2
+2019/2020,M'gladbach,Freiburg,4,2
+2019/2020,Wolfsburg,Werder Bremen,2,3
+2019/2020,Mainz,Ein Frankfurt,2,1
+2019/2020,Ein Frankfurt,Hertha,2,2
+2019/2020,Augsburg,Mainz,2,1
+2019/2020,Dortmund,Fortuna Dusseldorf,5,0
+2019/2020,Freiburg,Wolfsburg,1,0
+2019/2020,M'gladbach,Bayern Munich,2,1
+2019/2020,RB Leipzig,Hoffenheim,3,1
+2019/2020,Leverkusen,Schalke 04,2,1
+2019/2020,Union Berlin,FC Koln,2,0
+2019/2020,Werder Bremen,Paderborn,0,1
+2019/2020,Hoffenheim,Augsburg,2,4
+2019/2020,Bayern Munich,Werder Bremen,6,1
+2019/2020,FC Koln,Leverkusen,2,0
+2019/2020,Hertha,Freiburg,1,0
+2019/2020,Mainz,Dortmund,0,4
+2019/2020,Paderborn,Union Berlin,1,1
+2019/2020,Fortuna Dusseldorf,RB Leipzig,0,3
+2019/2020,Wolfsburg,M'gladbach,2,1
+2019/2020,Schalke 04,Ein Frankfurt,1,0
+2019/2020,Werder Bremen,Mainz,0,5
+2019/2020,Augsburg,Fortuna Dusseldorf,3,0
+2019/2020,Dortmund,RB Leipzig,3,3
+2019/2020,Union Berlin,Hoffenheim,0,2
+2019/2020,Leverkusen,Hertha,0,1
+2019/2020,Ein Frankfurt,FC Koln,2,4
+2019/2020,Freiburg,Bayern Munich,1,3
+2019/2020,M'gladbach,Paderborn,2,0
+2019/2020,Wolfsburg,Schalke 04,1,1
+2019/2020,Hoffenheim,Dortmund,2,1
+2019/2020,Bayern Munich,Wolfsburg,2,0
+2019/2020,FC Koln,Werder Bremen,1,0
+2019/2020,Mainz,Leverkusen,0,1
+2019/2020,RB Leipzig,Augsburg,3,1
+2019/2020,Schalke 04,Freiburg,2,2
+2019/2020,Hertha,M'gladbach,0,0
+2019/2020,Fortuna Dusseldorf,Union Berlin,2,1
+2019/2020,Paderborn,Ein Frankfurt,2,1
+2019/2020,Schalke 04,M'gladbach,2,0
+2019/2020,Augsburg,Dortmund,3,5
+2019/2020,FC Koln,Wolfsburg,3,1
+2019/2020,Fortuna Dusseldorf,Werder Bremen,0,1
+2019/2020,Hoffenheim,Ein Frankfurt,1,2
+2019/2020,Mainz,Freiburg,1,2
+2019/2020,RB Leipzig,Union Berlin,3,1
+2019/2020,Hertha,Bayern Munich,0,4
+2019/2020,Paderborn,Leverkusen,1,4
+2019/2020,Dortmund,FC Koln,5,1
+2019/2020,Ein Frankfurt,RB Leipzig,2,0
+2019/2020,Freiburg,Paderborn,0,2
+2019/2020,M'gladbach,Mainz,3,1
+2019/2020,Union Berlin,Augsburg,2,0
+2019/2020,Wolfsburg,Hertha,1,2
+2019/2020,Bayern Munich,Schalke 04,5,0
+2019/2020,Werder Bremen,Hoffenheim,0,3
+2019/2020,Leverkusen,Fortuna Dusseldorf,3,0
+2019/2020,Hertha,Schalke 04,0,0
+2019/2020,Augsburg,Werder Bremen,2,1
+2019/2020,Dortmund,Union Berlin,5,0
+2019/2020,Fortuna Dusseldorf,Ein Frankfurt,1,1
+2019/2020,Hoffenheim,Leverkusen,2,1
+2019/2020,Mainz,Bayern Munich,1,3
+2019/2020,RB Leipzig,M'gladbach,2,2
+2019/2020,FC Koln,Freiburg,4,0
+2019/2020,Paderborn,Wolfsburg,2,4
+2019/2020,Ein Frankfurt,Augsburg,5,0
+2019/2020,Freiburg,Hoffenheim,1,0
+2019/2020,Hertha,Mainz,1,3
+2019/2020,Schalke 04,Paderborn,1,1
+2019/2020,Werder Bremen,Union Berlin,0,2
+2019/2020,Wolfsburg,Fortuna Dusseldorf,1,1
+2019/2020,Leverkusen,Dortmund,4,3
+2019/2020,Bayern Munich,RB Leipzig,0,0
+2019/2020,Dortmund,Ein Frankfurt,4,0
+2019/2020,Augsburg,Freiburg,1,1
+2019/2020,Hoffenheim,Wolfsburg,2,3
+2019/2020,Paderborn,Hertha,1,2
+2019/2020,RB Leipzig,Werder Bremen,3,0
+2019/2020,Union Berlin,Leverkusen,2,3
+2019/2020,Fortuna Dusseldorf,M'gladbach,1,4
+2019/2020,FC Koln,Bayern Munich,1,4
+2019/2020,Mainz,Schalke 04,0,0
+2019/2020,Bayern Munich,Paderborn,3,2
+2019/2020,Freiburg,Fortuna Dusseldorf,0,2
+2019/2020,Hertha,FC Koln,0,5
+2019/2020,M'gladbach,Hoffenheim,1,1
+2019/2020,Werder Bremen,Dortmund,0,2
+2019/2020,Schalke 04,RB Leipzig,0,5
+2019/2020,Leverkusen,Augsburg,2,0
+2019/2020,Wolfsburg,Mainz,4,0
+2019/2020,Ein Frankfurt,Union Berlin,1,2
+2019/2020,Fortuna Dusseldorf,Hertha,3,3
+2019/2020,Augsburg,M'gladbach,2,3
+2019/2020,Dortmund,Freiburg,1,0
+2019/2020,Hoffenheim,Bayern Munich,0,6
+2019/2020,Mainz,Paderborn,2,0
+2019/2020,FC Koln,Schalke 04,3,0
+2019/2020,Union Berlin,Wolfsburg,2,2
+2019/2020,RB Leipzig,Leverkusen,1,1
+2019/2020,Paderborn,FC Koln,1,2
+2019/2020,Freiburg,Union Berlin,3,1
+2019/2020,Hertha,Werder Bremen,2,2
+2019/2020,Leverkusen,Ein Frankfurt,4,0
+2019/2020,Schalke 04,Hoffenheim,1,1
+2019/2020,Wolfsburg,RB Leipzig,0,0
+2019/2020,M'gladbach,Dortmund,1,2
+2019/2020,Bayern Munich,Augsburg,2,0
+2019/2020,Mainz,Fortuna Dusseldorf,1,1
+2019/2020,M'gladbach,FC Koln,2,1
+2019/2020,Augsburg,Wolfsburg,1,2
+2019/2020,Dortmund,Schalke 04,4,0
+2019/2020,Fortuna Dusseldorf,Paderborn,0,0
+2019/2020,Hoffenheim,Hertha,0,3
+2019/2020,RB Leipzig,Freiburg,1,1
+2019/2020,Ein Frankfurt,M'gladbach,1,3
+2019/2020,FC Koln,Mainz,2,2
+2019/2020,Union Berlin,Bayern Munich,0,2
+2019/2020,Werder Bremen,Leverkusen,1,4
+2019/2020,Hertha,Union Berlin,4,0
+2019/2020,Freiburg,Werder Bremen,0,1
+2019/2020,M'gladbach,Leverkusen,1,3
+2019/2020,Paderborn,Hoffenheim,1,1
+2019/2020,Wolfsburg,Dortmund,0,2
+2019/2020,Bayern Munich,Ein Frankfurt,5,2
+2019/2020,Schalke 04,Augsburg,0,3
+2019/2020,Mainz,RB Leipzig,0,5
+2019/2020,FC Koln,Fortuna Dusseldorf,2,2
+2019/2020,Dortmund,Bayern Munich,0,1
+2019/2020,Ein Frankfurt,Freiburg,3,3
+2019/2020,Leverkusen,Wolfsburg,1,4
+2019/2020,Werder Bremen,M'gladbach,0,0
+2019/2020,RB Leipzig,Hertha,2,2
+2019/2020,Augsburg,Paderborn,0,0
+2019/2020,Fortuna Dusseldorf,Schalke 04,2,1
+2019/2020,Hoffenheim,FC Koln,3,1
+2019/2020,Union Berlin,Mainz,1,1
+2019/2020,Freiburg,Leverkusen,0,1
+2019/2020,Hertha,Augsburg,2,0
+2019/2020,Mainz,Hoffenheim,0,1
+2019/2020,Schalke 04,Werder Bremen,0,1
+2019/2020,Wolfsburg,Ein Frankfurt,1,2
+2019/2020,Bayern Munich,Fortuna Dusseldorf,5,0
+2019/2020,M'gladbach,Union Berlin,4,1
+2019/2020,Paderborn,Dortmund,1,6
+2019/2020,FC Koln,RB Leipzig,2,4
+2019/2020,Werder Bremen,Ein Frankfurt,0,3
+2019/2020,Freiburg,M'gladbach,1,0
+2019/2020,Ein Frankfurt,Mainz,0,2
+2019/2020,Fortuna Dusseldorf,Hoffenheim,2,2
+2019/2020,Leverkusen,Bayern Munich,2,4
+2019/2020,RB Leipzig,Paderborn,1,1
+2019/2020,Dortmund,Hertha,1,0
+2019/2020,Werder Bremen,Wolfsburg,0,1
+2019/2020,Union Berlin,Schalke 04,1,1
+2019/2020,Augsburg,FC Koln,1,1
+2019/2020,Hoffenheim,RB Leipzig,0,2
+2019/2020,FC Koln,Union Berlin,1,2
+2019/2020,Fortuna Dusseldorf,Dortmund,0,1
+2019/2020,Hertha,Ein Frankfurt,1,4
+2019/2020,Paderborn,Werder Bremen,1,5
+2019/2020,Wolfsburg,Freiburg,2,2
+2019/2020,Bayern Munich,M'gladbach,2,1
+2019/2020,Mainz,Augsburg,0,1
+2019/2020,Schalke 04,Leverkusen,1,1
+2019/2020,M'gladbach,Wolfsburg,3,0
+2019/2020,Freiburg,Hertha,2,1
+2019/2020,Union Berlin,Paderborn,1,0
+2019/2020,Werder Bremen,Bayern Munich,0,1
+2019/2020,Ein Frankfurt,Schalke 04,2,1
+2019/2020,Augsburg,Hoffenheim,1,3
+2019/2020,Dortmund,Mainz,0,2
+2019/2020,Leverkusen,FC Koln,3,1
+2019/2020,RB Leipzig,Fortuna Dusseldorf,2,2
+2019/2020,Bayern Munich,Freiburg,3,1
+2019/2020,FC Koln,Ein Frankfurt,1,1
+2019/2020,Fortuna Dusseldorf,Augsburg,1,1
+2019/2020,Hertha,Leverkusen,2,0
+2019/2020,Hoffenheim,Union Berlin,4,0
+2019/2020,Mainz,Werder Bremen,3,1
+2019/2020,Paderborn,M'gladbach,1,3
+2019/2020,RB Leipzig,Dortmund,0,2
+2019/2020,Schalke 04,Wolfsburg,1,4
+2019/2020,Augsburg,RB Leipzig,1,2
+2019/2020,Dortmund,Hoffenheim,0,4
+2019/2020,Ein Frankfurt,Paderborn,3,2
+2019/2020,Freiburg,Schalke 04,4,0
+2019/2020,Leverkusen,Mainz,1,0
+2019/2020,M'gladbach,Hertha,2,1
+2019/2020,Union Berlin,Fortuna Dusseldorf,3,0
+2019/2020,Werder Bremen,FC Koln,6,1
+2019/2020,Wolfsburg,Bayern Munich,0,4

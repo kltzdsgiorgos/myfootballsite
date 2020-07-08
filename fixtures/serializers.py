@@ -1,8 +1,20 @@
-from .models import Fixtures
+from .models import EnglandFixtures, JapanFixtures, GermanFixtures
 from rest_framework import serializers
 
 
-class FixturesSerializer(serializers.ModelSerializer):
+class EnglandFixturesSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Fixtures
-        fields = ['id', 'hometeam', 'awayteam', 'homegoals', 'awaygoals']
+        model = EnglandFixtures
+        fields = ['id', 'season', 'hometeam', 'awayteam', 'homegoals', 'awaygoals']
+
+
+class GermanFixturesSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = GermanFixtures
+        fields = ['id', 'season', 'hometeam', 'awayteam', 'homegoals', 'awaygoals']
+
+
+class JapanFixturesSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = JapanFixtures
+        fields = ['id', 'season', 'hometeam', 'awayteam', 'homegoals', 'awaygoals']
